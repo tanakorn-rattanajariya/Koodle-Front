@@ -1,0 +1,43 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "styles/*": [
+                "/src/styles/*"
+            ],
+            "model/*": [
+                "src/model/*"
+            ],
+            "methods/*": [
+                "src/methods/*"
+            ],
+            "constants/*": [
+                "src/constants/*"
+            ],
+            "components/*": [
+                "src/components/*"
+            ],
+            "elements/*": [
+                "src/elements/*"
+            ],
+            "images/*": [
+                "public/images/*"
+            ],
+            "mock/*": [
+                "mock/*"
+            ],
+            "workers/*": [
+                "src/workers/*"
+            ],
+            "helpers/*": [
+                "src/helpers/*"
+            ],
+            "hooks/*": [
+                "src/hooks/*"
+            ],
+            "src/*": [
+                "src/*"
+            ]
+        },
+    }
+}
